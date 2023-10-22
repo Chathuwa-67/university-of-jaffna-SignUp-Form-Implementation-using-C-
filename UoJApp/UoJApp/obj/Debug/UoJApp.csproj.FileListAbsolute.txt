@@ -1,0 +1,14 @@
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\bin\Debug\UoJApp.exe.config
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\bin\Debug\UoJApp.exe
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\bin\Debug\UoJApp.pdb
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\obj\Debug\UoJApp.csproj.AssemblyReference.cache
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\obj\Debug\UoJApp.csproj.SuggestedBindingRedirects.cache
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\obj\Debug\UoJApp.Confirmation.resources
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\obj\Debug\UoJApp.Form1.resources
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\obj\Debug\UoJApp.Properties.Resources.resources
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\obj\Debug\UoJApp.signupform.resources
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\obj\Debug\UoJApp.welcom.resources
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\obj\Debug\UoJApp.csproj.GenerateResource.cache
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\obj\Debug\UoJApp.csproj.CoreCompileInputs.cache
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\obj\Debug\UoJApp.exe
+D:\HP_LAP\DESK\2nd Year\1st Semester\TICT_2134 Advanced Computer programming\C#\UoJApp\UoJApp\obj\Debug\UoJApp.pdb
